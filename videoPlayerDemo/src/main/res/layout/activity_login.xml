@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/liuguilin" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="1dp"
+            android:background="@color/color_main" />
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/color_main" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="专注高校学习与实习"
+            android:textColor="@color/color_main"
+            android:textStyle="italic" />
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/color_main" />
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="1dp"
+            android:background="@color/color_main" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="25dp"
+        android:hint="用户名"
+        android:paddingLeft="10dp" />
+
+    <EditText
+        android:password="true"
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+
+        android:hint="密码" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/keep_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="记住密码"
+            android:textColor="@color/colorAccent" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:text="登录"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btn_registered"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_bg"
+        android:text="注册"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_forget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="忘记密码"
+            android:textColor="@color/colorAccent" />
+
+    </LinearLayout>
+
+</LinearLayout>

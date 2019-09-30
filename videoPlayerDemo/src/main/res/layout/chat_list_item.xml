@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+   android:layout_marginTop="3dp"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:background="#7f7f7f7f"
+        android:textColor="#ffffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_name"
+
+        android:text="罗大炮"/>
+
+   <!-- <TextView
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_time"
+        android:layout_toRightOf="@id/tv_name"
+        android:layout_marginLeft="10dip"
+        android:text="2014-08-11 10:37:20"/>-->
+
+    <TextView
+   android:paddingLeft="5dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_content"
+        android:layout_below="@id/tv_name"
+        android:background="#7f7f7f7f"
+        android:textColor="#ffffffff"
+        android:text="锤子天下第一"/>
+
+</LinearLayout>

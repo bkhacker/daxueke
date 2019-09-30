@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.baidu.bce.videoplayer.demo"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <!-- 读取Log -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <!-- 获取wifi网络状态的信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 保持CPU 运转，屏幕和键盘灯有可能是关闭的,用于文件上传和下载 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- 允许读取手机状态 用于创建BmobInstallation -->
+
+
+    <!-- 获取手机录音机使用权限，听写、识别、语义理解需要用到此权限 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 允许程序改变网络连接状态 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- 读取联系人权限，上传联系人需要用到此权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 短信权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 窗口权限 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 百度地图权限 -->
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+
+    <application
+        android:name="com.baidu.bce.videoplayer.demo.application.DaxuekeApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitleFullscreen"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--
+            <activity
+            android:name=".activity.LoginActivity"/>
+        -->
+
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.CacheListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitleFullscreen" />
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.SimplePlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/NoTitleFullscreen" />
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.AdvancedPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/NoTitleFullscreen" >
+        </activity>
+
+        <!-- home -->
+        <activity android:name="com.baidu.bce.videoplayer.demo.activity.HomeActivity" />
+        <!-- 注册 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.RegisteredActivity"
+            android:label="注册" />
+        <!-- 找回密码 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.ForgetPasswordActivity"
+            android:label="找回密码" />
+        <!-- 推流端 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.StreamingActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity android:name="com.baidu.bce.videoplayer.demo.activity.PushActivity" />
+        <!-- 编辑资料 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.EditMineActivity"
+            android:label="资料修改" />
+        <!-- 申请直播 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.ApplyZhiBoActivity"
+            android:label="申请直播" />
+        <!-- 推荐视频 -->
+        <!-- 推荐资料 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.RecommendActivity"
+            android:label="推荐资料" />
+        <!-- 推荐实习 -->
+        <!-- 实习详情 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.JobDetailsActivity"
+            android:label="职位详情" />
+        <!-- 文档阅读器 -->
+        <activity
+            android:name="com.baidu.bce.videoplayer.demo.activity.WebViewActivity"
+            android:label="文档阅读" />
+        <!-- 文档缓存 -->
+        <activity android:name="com.baidu.bce.videoplayer.demo.activity.DocCacheListActivity" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.baidu.bce.videoplayer.demo.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

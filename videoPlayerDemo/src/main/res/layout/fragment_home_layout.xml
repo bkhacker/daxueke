@@ -1,0 +1,166 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.youth.banner.Banner xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+    </LinearLayout>
+    <!--四个按钮-->
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingTop="10dp">
+        <!--番茄钟-->
+        <RelativeLayout
+            android:id="@+id/fanqiezhong_layout_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/fanqiezhong_image_view"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/fanqieicon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fanqiezhong_image_view"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="4dp"
+                android:text="番茄计时"
+                android:textColor="@color/color_333333"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <!--最新课程-->
+        <RelativeLayout
+            android:id="@+id/zuixincourse_layout_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/zuixincourse_image_view"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/videoicon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/zuixincourse_image_view"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="4dp"
+                android:text="最新课程"
+                android:textColor="@color/color_333333"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <!--热门实习-->
+        <RelativeLayout
+            android:id="@+id/remenpartjob_layout_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/remenpartjob_image_view"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/partjobicon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/remenpartjob_image_view"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="4dp"
+                android:text="热门实习"
+                android:textColor="@color/color_333333"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+
+        <!--文档资料-->
+        <RelativeLayout
+            android:id="@+id/wendangziliao_layout_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/wendangziliao_image_view"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/wordicon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/wendangziliao_image_view"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="4dp"
+                android:text="文档资料"
+                android:textColor="@color/color_333333"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:paddingTop="6dp"
+        android:paddingBottom="2dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/gonggaoicon"
+            />
+
+        <TextView
+            android:paddingLeft="5dp"
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+
+            android:text="官方公告"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="22dp"></ListView>
+
+</LinearLayout>

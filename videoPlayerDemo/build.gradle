@@ -1,0 +1,80 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+
+
+    defaultConfig {
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi', 'x86', 'armeabi-v7a' , 'arm64-v8a'//, 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+
+        applicationId "com.baidu.bce.videoplayer.demo"
+        minSdkVersion 15
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:support-v4:23.+'
+    compile files('libs/cyberplayer-hlsdownload.jar')
+    compile files('libs/cyberplayer-sdk.jar')
+    //使用SystemBarTint库
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    //tablayout
+    compile 'com.android.support:design:24.2.0'
+    //以下SDK开发者请根据需要自行选择
+    //bmob-sdk：Bmob的android sdk包，包含了Bmob的数据存储、文件等服务，以下是最新的bmob-sdk:
+    //3.5.0：请务必查看下面注释[1]
+    // exclude group:"io.reactivex" 过滤冲突
+    compile('cn.bmob.android:bmob-sdk:3.5.0') {
+        exclude group: "io.reactivex"
+    }
+    compile 'com.tencent.bugly:crashreport:latest.release'
+    //其中latest.release指代最新Bugly SDK版本号，也可以指定明确的版本号，例如2.1.9
+    compile 'com.tencent.bugly:nativecrashreport:latest.release'
+    //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.0
+   // compile files('libs/BRecorder.jar')
+    //Picasso
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    //多图轮播
+    compile 'com.youth.banner:banner:1.4.9'
+    //圆形头像
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    //最新版本
+    //下拉刷新
+   // compile 'com.android.support:recyclerview-v7:25.0.1'
+    // compile 'com.android.support:appcompat-v7:latestVersion'
+   // compile 'cn.bingoogolapple:bga-refreshlayout:1.1.7@aar'
+    //阅读器
+ //   compile files('libs/bdocreadersdk.jar')
+
+    //RxVolley
+    /*compile('com.kymjs.rxvolley:rxvolley:1.1.2') {
+        exclude group: 'com.squareup.okhttp3', module: 'okhttp'
+        exclude group: 'com.squareup.okio'
+        exclude group: 'io.reactivex'
+    }*/
+    //RxVolley下载模块
+   /* compile('com.kymjs.rxvolley:okhttp:1.1.0') {
+        exclude group: 'com.squareup.okhttp3'
+        exclude group: 'com.squareup.okio'
+    }
+*/
+}

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/login_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            >
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/photo_view"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/aa"
+                />
+
+            <TextView
+                android:id="@+id/login_info_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/photo_view"
+                android:text="@string/unlogin"
+                android:textColor="@color/color_333333"
+                android:textSize="13sp"
+                />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/logined_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingBottom="15dp"
+            android:visibility="gone">
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true">
+                <!--
+                            <TextView
+                                android:id="@+id/username_view"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:text="tyt114"
+                                android:textColor="@color/color_333333"
+                                android:textSize="16sp" />
+
+                            <TextView
+                                android:id="@+id/tick_view"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/username_view"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="7dp"
+                                android:text="tyt114"
+                                android:textColor="@color/color_cdcdcd"
+                                android:textSize="13sp" />-->
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/color_cdcdcd" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@color/color_cccccc" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/xiugai" />
+
+            <TextView
+                android:id="@+id/mine_info_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="资料修改 "
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/kaishizhibo" />
+
+            <TextView
+                android:id="@+id/teacher_zhibo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="教师直播"
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/shenqingzhibo" />
+
+            <TextView
+                android:id="@+id/apply_zhibo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="申请直播"
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/tuijian" />
+
+            <TextView
+                android:id="@+id/mine_tuijianzl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="我要推荐"
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/shipinhuancunttt" />
+
+            <TextView
+                android:id="@+id/mine_videocache"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="视频缓存"
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_cdcdcd" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingTop="15dp"
+                android:src="@drawable/shipinhuancun" />
+
+            <TextView
+                android:id="@+id/mine_doccache"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/arrow_right"
+                android:paddingBottom="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="15dp"
+                android:text="文档缓存"
+                android:textColor="@color/color_333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+        <!-- <Button
+             android:id="@+id/exit_login"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="退出登录" />-->
+
+        <Button
+            android:id="@+id/exit_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_bg"
+            android:text="退出登录"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</ScrollView>

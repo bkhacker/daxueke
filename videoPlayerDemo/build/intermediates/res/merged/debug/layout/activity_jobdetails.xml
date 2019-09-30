@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="10dp"
+    android:background="@color/white"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_jobdetails_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Java工程师"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_jobdetails_salary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+android:paddingLeft="25dp"
+            android:text="7K-12K"
+            android:textColor="@color/color_fd4634"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="职位描述"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_jobdetails_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="职位描述" />
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/addresslogo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:text="工作地址"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_jobdetails_address2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广东-广州-荔湾区" />
+
+
+</LinearLayout>

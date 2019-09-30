@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.READ_LOGS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:25:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:28:5-78
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:28:22-75
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:30:5-85
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:30:22-82
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:31:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:39:5-84
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:39:22-81
+uses-permission#android.permission.INTERNET
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:42:5-67
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:42:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:43:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:45:5-73
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:45:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:46:5-76
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:46:22-72
+uses-sdk
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:47:5-49:41
+MERGED from [com.android.support:design:24.2.0] C:\Users\yeweizheng\.android\build-cache\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\yeweizheng\.android\build-cache\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\yeweizheng\.android\build-cache\128fdeec6dc303cb3c4b4cacfbfa1f5351437d37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\yeweizheng\.android\build-cache\c2213aad7ce841807d3ba4635edd76a833922d9d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\yeweizheng\.android\build-cache\f357902fff4ef67caa63199a21eae1d159bfc785\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\yeweizheng\.android\build-cache\ed1e681d35b52f2a99c3c59b681dc0270f677a42\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\yeweizheng\.android\build-cache\6d9ff8729ef347c6534a7dab16a5cd6a15790dd0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\yeweizheng\.android\build-cache\106df752ae70ae8a2965ae693f9a3d5c60e6b720\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\yeweizheng\.android\build-cache\d4a506e829bf4a602366cbd0498d6c5e5d916e49\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\yeweizheng\.android\build-cache\6e5a9e029957011952ee7ea726bab40448057f0c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\yeweizheng\.android\build-cache\6b67f148753f4cdc3eda5b08eac3362949af8f93\output\AndroidManifest.xml:21:5-23:58
+MERGED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\yeweizheng\.android\build-cache\525f5fd9e231449cf78d91326a6e5d50b6426b9d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport:2.6.0] C:\Users\yeweizheng\.android\build-cache\70b30b444c1df5682d3495594c0a058f086bf9c0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.2.0] C:\Users\yeweizheng\.android\build-cache\55117bc269825ad1924c44d47ae77c40c2c0adc7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\yeweizheng\.android\build-cache\278e98ac5ad993508ca0a7847b59e670404babc0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\yeweizheng\.android\build-cache\8f03f176d52ae658c9f9e3eba0429646f39e6c59\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\yeweizheng\.android\build-cache\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:49:9-38
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:48:9-35
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+		INJECTED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:51:5-60
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:51:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:52:5-54:36
+	android:required
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:53:9-57
+uses-permission#android.permission.CAMERA
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:56:5-65
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:56:22-62
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:57:5-88
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:57:22-85
+application
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:60:5-155:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\yeweizheng\.android\build-cache\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\yeweizheng\.android\build-cache\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\yeweizheng\.android\build-cache\128fdeec6dc303cb3c4b4cacfbfa1f5351437d37\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\yeweizheng\.android\build-cache\c2213aad7ce841807d3ba4635edd76a833922d9d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\yeweizheng\.android\build-cache\f357902fff4ef67caa63199a21eae1d159bfc785\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\yeweizheng\.android\build-cache\ed1e681d35b52f2a99c3c59b681dc0270f677a42\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\yeweizheng\.android\build-cache\6d9ff8729ef347c6534a7dab16a5cd6a15790dd0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\yeweizheng\.android\build-cache\106df752ae70ae8a2965ae693f9a3d5c60e6b720\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\yeweizheng\.android\build-cache\6e5a9e029957011952ee7ea726bab40448057f0c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\yeweizheng\.android\build-cache\6b67f148753f4cdc3eda5b08eac3362949af8f93\output\AndroidManifest.xml:25:5-20
+MERGED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\yeweizheng\.android\build-cache\525f5fd9e231449cf78d91326a6e5d50b6426b9d\output\AndroidManifest.xml:11:5-14:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\yeweizheng\.android\build-cache\8f03f176d52ae658c9f9e3eba0429646f39e6c59\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:64:9-41
+	android:supportsRtl
+		ADDED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\yeweizheng\.android\build-cache\525f5fd9e231449cf78d91326a6e5d50b6426b9d\output\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:62:9-35
+	android:icon
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:63:9-43
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:65:9-40
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:61:9-55
+activity#com.baidu.bce.videoplayer.demo.activity.LoginActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:68:9-79:20
+	android:screenOrientation
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:72:13-64
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:71:13-53
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:69:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:74:13-78:29
+action#android.intent.action.MAIN
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:77:27-74
+activity#com.baidu.bce.videoplayer.demo.activity.MainActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:84:9-88:56
+	android:screenOrientation
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:86:13-45
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:85:13-50
+activity#com.baidu.bce.videoplayer.demo.activity.CacheListActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:89:9-93:65
+	android:screenOrientation
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:91:13-45
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:93:13-53
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:90:13-55
+activity#com.baidu.bce.videoplayer.demo.activity.SimplePlayActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:94:9-98:65
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:97:13-45
+	android:configChanges
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:96:13-74
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:98:13-53
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:95:13-56
+activity#com.baidu.bce.videoplayer.demo.activity.AdvancedPlayActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:99:9-105:20
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:102:13-45
+	android:configChanges
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:101:13-74
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:103:13-53
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:100:13-58
+activity#com.baidu.bce.videoplayer.demo.activity.HomeActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:109:9-59
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:109:19-56
+activity#com.baidu.bce.videoplayer.demo.activity.RegisteredActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:111:9-113:34
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:113:13-31
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:112:13-56
+activity#com.baidu.bce.videoplayer.demo.activity.ForgetPasswordActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:115:9-117:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:117:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:116:13-60
+activity#com.baidu.bce.videoplayer.demo.activity.SplashActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:119:9-123:83
+	android:screenOrientation
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:121:13-45
+	android:theme
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:123:13-71
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:120:13-52
+activity#com.baidu.bce.videoplayer.demo.activity.StreamingActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:125:9-128:48
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:128:13-45
+	android:configChanges
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:127:13-74
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:126:13-55
+activity#com.baidu.bce.videoplayer.demo.activity.PushActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:130:9-59
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:130:19-56
+activity#com.baidu.bce.videoplayer.demo.activity.EditMineActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:132:9-134:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:134:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:133:13-54
+activity#com.baidu.bce.videoplayer.demo.activity.ApplyZhiBoActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:136:9-138:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:138:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:137:13-56
+activity#com.baidu.bce.videoplayer.demo.activity.RecommendActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:141:9-143:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:143:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:142:13-55
+activity#com.baidu.bce.videoplayer.demo.activity.JobDetailsActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:146:9-148:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:148:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:147:13-56
+activity#com.baidu.bce.videoplayer.demo.activity.WebViewActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:150:9-152:36
+	android:label
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:152:13-33
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:151:13-53
+activity#com.baidu.bce.videoplayer.demo.activity.DocCacheListActivity
+ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:154:9-66
+	android:name
+		ADDED from I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\src\main\AndroidManifest.xml:154:19-64

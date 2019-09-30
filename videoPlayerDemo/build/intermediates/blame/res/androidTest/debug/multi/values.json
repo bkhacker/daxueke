@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\yeweizheng\\.android\\build-cache\\5cfa8f5c442e35d20c9064c80dfa0ab5b4d330d5\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

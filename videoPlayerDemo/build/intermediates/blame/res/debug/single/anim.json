@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\pop_in.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\anim\\pop_in.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\pop_out.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\anim\\pop_out.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

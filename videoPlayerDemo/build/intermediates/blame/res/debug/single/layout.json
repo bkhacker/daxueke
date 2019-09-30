@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_layout.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_home_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_zhibo.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_zhibo.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pushactivity_setting.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pushactivity_setting.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_list_item.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\chat_list_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_resolutionlist.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_resolutionlist.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_registered.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recommend.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_recommend.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\525f5fd9e231449cf78d91326a6e5d50b6426b9d\\output\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loding.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\dialog_loding.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ac_main.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\ac_main.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobdetails.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_jobdetails.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_streaming_landscape.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_streaming_landscape.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\spec_item_list.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\spec_item_list.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_home.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_home.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_add.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_add.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_paramset_list.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_paramset_list.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple_video_playing.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_simple_video_playing.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_settings.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_settings.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loading_animation.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\loading_animation.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_select_list.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\dialog_select_list.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_partjob.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_partjob.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_fragment_main.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\chat_fragment_main.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\alert_window_black_theme.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\alert_window_black_theme.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applyzhibo.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_applyzhibo.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_of_doccache.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_list_of_doccache.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_video.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_video.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bar_advanced_media_controller.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\bar_advanced_media_controller.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_hint.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\dialog_text_hint.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bar_simple_media_controller.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\bar_simple_media_controller.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cache_list.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_cache_list.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course_layout.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_course_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_sound.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_sound.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_partjob_layout.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_partjob_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zhibo.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_zhibo.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_doc.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_doc.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advanced_video_playing.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_advanced_video_playing.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bar_advanced_media_video__controller.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\bar_advanced_media_video__controller.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advanced_zhibo_playing.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_advanced_zhibo_playing.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\rename_dialog.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\rename_dialog.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_doc.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_doc.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_activity_main.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\chat_activity_main.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_cache.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_cache.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_streaming_portrait.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_streaming_portrait.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_doccache.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_doccache.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\doc_view_activity.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\doc_view_activity.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pushactivity_splash.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pushactivity_splash.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editmine.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_editmine.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_hint_with_title.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\dialog_text_hint_with_title.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_of_list_resolution_item.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\item_of_list_resolution_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine_layout.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_mine_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_layout.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\fragment_home_layout.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\278e98ac5ad993508ca0a7847b59e670404babc0\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\text_list_item.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\text_list_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_more.xml",
+        "source": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\src\\main\\res\\layout\\pop_window_more.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\3174fe1749a2d1cf7f47045aec37f0a0125aef8b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

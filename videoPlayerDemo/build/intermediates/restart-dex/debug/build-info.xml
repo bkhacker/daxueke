@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1498361442519"
+    token="361604943650012598"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3679" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2764" />
+    <task
+        name="verifier"
+        duration="514" />
+
+    <artifact
+        location="I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\build\outputs\apk\videoPlayerDemo-debug.apk"
+        type="MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1498361442519"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="I:\youku\Shop-master\Shop_AS\daxueke\videoPlayerDemo\build\outputs\apk\videoPlayerDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

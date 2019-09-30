@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "I:\\youku\\Shop-master\\Shop_AS\\daxueke\\videoPlayerDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\yeweizheng\\.android\\build-cache\\25b5522b2be90254c80c2f8ca6cce1d9768b32c3\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
